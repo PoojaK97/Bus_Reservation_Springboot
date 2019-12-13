@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: vbpat
+Build-Jdk: 13.0.1
+Implementation-Title: boot-form-handling
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.javainuse
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/boot-form-hand
+ ling/
+Created-By: Maven Integration for Eclipse
+

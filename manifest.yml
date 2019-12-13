@@ -1,0 +1,9 @@
+---
+applications:
+- name: boot-form-handling
+  path: target/JavaFinalBus.war
+  domain: cfapps.io
+  memory: 1G
+  instances: 1
+services:
+ - mysql
